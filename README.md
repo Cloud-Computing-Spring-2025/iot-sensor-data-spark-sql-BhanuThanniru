@@ -131,3 +131,7 @@ BuildingA_Floor2,24.382,27.27692307692308,20.727999999999998,23.533333333333335,
 Install the necessary Python libraries:
 ```bash
 pip install pyspark faker
+### Data generator and main task code running
+```bash
+python data_generator.py
+python main.py
